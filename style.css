@@ -55,12 +55,12 @@ hr {
 
 header{
   text-align: center;
-  width: 100%
+  width: 100%;
 }
 
 main > div > article > h2,h3{
   text-align: center;
-  width: 100%
+  width: 100%;
 }
 
 body{
@@ -77,4 +77,9 @@ a:link{
 
 a:hover{
   color: #f77f00;
+}
+
+footer > p{
+  text-align: center;
+  width: 100%;
 }
